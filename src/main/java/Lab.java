@@ -27,5 +27,7 @@ public class Lab {
      */
     public String copy(String text){
         return text;
+        //I'm submitting this another time because my test results are not showing up on the progress page
+        
     }
 }
